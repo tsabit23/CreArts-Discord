@@ -43,7 +43,7 @@
 // ║ Skins                    ║ To disable certain things, you can comment out the lines. Use "// " in front.           ║
 // ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝
 
-@use "skins/theme/community" as *; // ✔️ Community Edition (Solid)
+//@use "skins/theme/community" as *; // ✔️ Community Edition (Solid)
 
 //@use "skins/theme/discord" as *; // ❌ Discord Edition (Solid)
 
@@ -53,7 +53,7 @@
 
 //@use "skins/theme/spotify" as *; // ❌ Spotify Edition (Solid)
 
-//@use "skins/theme/twitch" as *; // ❌ Twitch Edition (Solid)
+@use "skins/theme/twitch" as *; // ❌ Twitch Edition (Solid)
 
 //@use "skins/theme/guilded" as *; // ❌ Guilded Edition (Solid)
 
